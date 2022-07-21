@@ -14,7 +14,7 @@ This library is licensed under the MIT-0 License. See the LICENSE file.
 
 ## Tools
 
-The project makes use of the followig tools:
+The project makes use of the following tools:
 
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/?e=gs2020&p=cicd-intro)
 - [AWS CodeBuild](https://aws.amazon.com/codebuild/?e=gs2020&p=cicd-intro)
